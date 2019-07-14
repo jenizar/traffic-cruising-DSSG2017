@@ -1,0 +1,5 @@
+---
+applications:
+- name: TrafficCruising-DSSG2017
+  memory: 1024MB
+
